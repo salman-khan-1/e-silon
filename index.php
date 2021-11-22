@@ -12,7 +12,7 @@ include "header.php";
         <button type="button">SHOP NOW</button>
       </div>
       <div class="banner__img w-50 container">
-        <img src="ban-1.png" alt="" height="471px" width="623px">
+        <img src="images/ban-1.png" alt="" height="471px" width="623px">
       </div>
     </div>
   </section>
@@ -24,7 +24,7 @@ include "header.php";
       <div class="img__row row">
         <div class="col-md-4 col-sm-6">
           <div class="img-area">
-            <img src="1.jpg" alt="" width="350px" height="438px">
+            <img src="images/1.jpg" alt="" width="350px" height="438px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -59,7 +59,7 @@ include "header.php";
 
         <div class="col-md-4 col-sm-6">
           <div class="img-area">
-            <img src="2.jpg" alt="" width="350px" height="438px">
+            <img src="images/2.jpg" alt="" width="350px" height="438px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -93,7 +93,7 @@ include "header.php";
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="img-area">
-            <img src="3.jpg" alt="" width="350px" height="438px">
+            <img src="images/3.jpg" alt="" width="350px" height="438px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -137,7 +137,7 @@ include "header.php";
         <button type="button">SHOP NOW</button>
       </div>
       <div class="banner__img w-50 container">
-        <img src="ban-2.png" alt="" height="407px" width="623px">
+        <img src="images/ban-2.png" alt="" height="407px" width="623px">
       </div>
     </div>
   </section>
@@ -148,7 +148,7 @@ include "header.php";
       <div class="img__row row row-cols-4">
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="4.jpg" alt="" width="255px" height="332px">
+            <img src="images/4.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -183,7 +183,7 @@ include "header.php";
 
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="5.jpg" alt="" width="255px" height="332px">
+            <img src="images/5.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -217,7 +217,7 @@ include "header.php";
         </div>
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="6.jpg" alt="" width="255px" height="332px">
+            <img src="images/6.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -251,7 +251,7 @@ include "header.php";
         </div>
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="7.jpg" alt="" width="255px" height="332px">
+            <img src="images/7.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -292,28 +292,28 @@ include "header.php";
       <div class="row row-cols-4">
         <div class="col">
           <div class="boxes__content">
-            <img src="1.png" alt="">
+            <img src="images/1.png" alt="">
             <h2>Money Back Guarantee</h2>
             <p>Great fill signs he evening</p>
           </div>
         </div>
         <div class="col">
           <div class="boxes__content">
-            <img src="2.png" alt="">
+            <img src="images/2.png" alt="">
             <h2>Free Delivery</h2>
             <p>Great fill signs he evening</p>
           </div>
         </div>
         <div class="col">
           <div class="boxes__content">
-            <img src="3.png" alt="">
+            <img src="images/3.png" alt="">
             <h2>Always Support</h2>
             <p>Great fill signs he evening</p>
           </div>
         </div>
         <div class="col">
           <div class="boxes__content">
-            <img src="4.png" alt="">
+            <img src="images/4.png" alt="">
             <h2>Secure Payment</h2>
             <p>Great fill signs he evening</p>
           </div>
@@ -328,7 +328,7 @@ include "header.php";
       <div class="img__row row row-cols-4">
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="8.jpg" alt="" width="255px" height="332px">
+            <img src="images/8.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -363,7 +363,7 @@ include "header.php";
 
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="9.jpg" alt="" width="255px" height="332px">
+            <img src="images/9.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -397,7 +397,7 @@ include "header.php";
         </div>
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="10.jpg" alt="" width="255px" height="332px">
+            <img src="images/10.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -431,7 +431,7 @@ include "header.php";
         </div>
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="11.jpg" alt="" width="255px" height="332px">
+            <img src="images/11.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -469,7 +469,7 @@ include "header.php";
       <div class="img__row row row-cols-4">
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="12.jpg" alt="" width="255px" height="332px">
+            <img src="images/12.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -504,7 +504,7 @@ include "header.php";
 
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="13.jpg" alt="" width="255px" height="332px">
+            <img src="images/13.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -538,7 +538,7 @@ include "header.php";
         </div>
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="14.jpg" alt="" width="255px" height="332px">
+            <img src="images/14.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -572,7 +572,7 @@ include "header.php";
         </div>
         <div class="featured__product__content">
           <div class="img-area">
-            <img src="15.jpg" alt="" width="255px" height="332px">
+            <img src="images/15.jpg" alt="" width="255px" height="332px">
             <div class="img-text">
               <div class="rounded-button">
                 <i class="far fa-eye"></i>
@@ -614,7 +614,7 @@ include "header.php";
       <div class="row">
         <div class="col-md-4 col-sm-6">
           <div class="silon__journal__content">
-            <img src="first.jpg" alt="">
+            <img src="images/first.jpg" alt="">
             <div class="post-item">
               <a href="#" class="post-meta date">07 July, 2019</a>
               <h5>Were divided land his creature which have evening subdue</h5>
@@ -627,7 +627,7 @@ include "header.php";
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="silon__journal__content">
-            <img src="second.jpg" alt="">
+            <img src="images/second.jpg" alt="">
             <div class="post-item">
               <a href="#" class="post-meta date">07 July, 2019</a>
               <h5>Were divided land his creature which have evening subdue</h5>
@@ -640,7 +640,7 @@ include "header.php";
         </div>
         <div class="col-md-4 col-sm-6">
           <div class="silon__journal__content">
-            <img src="third.jpg" alt="">
+            <img src="images/third.jpg" alt="">
             <div class="post-item">
               <a href="#" class="post-meta date">07 July, 2019</a>
               <h5>Were divided land his creature which have evening subdue</h5>
@@ -663,7 +663,7 @@ include "header.php";
 
           <div class="featured__product__content">
             <div class="img-area__one">
-              <img src="forth.jpg" alt="" width="255px" height="243px">
+              <img src="images/forth.jpg" alt="" width="255px" height="243px">
               <div class="img-text">
                 <i class="fab fa-instagram instagram"></i>
               </div>
@@ -672,7 +672,7 @@ include "header.php";
 
           <div class="featured__product__content">
             <div class="img-area__one">
-              <img src="fifth.jpg" alt="" width="255px" height="243px">
+              <img src="images/fifth.jpg" alt="" width="255px" height="243px">
               <div class="img-text">
                 <i class="fab fa-instagram instagram"></i>
               </div>
@@ -681,7 +681,7 @@ include "header.php";
 
           <div class="featured__product__content">
             <div class="img-area__one">
-              <img src="sixth.jpg" alt="" width="255px" height="243px">
+              <img src="images/sixth.jpg" alt="" width="255px" height="243px">
               <div class="img-text">
                 <i class="fab fa-instagram instagram"></i>
               </div>
@@ -690,7 +690,7 @@ include "header.php";
 
           <div class="featured__product__content">
             <div class="img-area__one">
-              <img src="seventh.jpg" alt="" width="255px" height="243px">
+              <img src="images/seventh.jpg" alt="" width="255px" height="243px">
               <div class="img-text">
                 <i class="fab fa-instagram instagram"></i>
               </div>
